@@ -61,7 +61,7 @@
     "dagre-d3": "^0.6.4",
     "default-passive-events": "^1.0.10",
     "highlight.js": "^10.1.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash-es": "^4.17.15",
     "monaco-editor": "^0.20.0",
     "ng-monaco-editor": "^2.2.2",
